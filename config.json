@@ -1,0 +1,19 @@
+{
+    "min_stock": 1,
+    "max_products": 10000,
+
+    "discount_percent": 20,
+
+    "exclude_categories": [
+        "Іграшки 18+"
+    ],
+
+    "price_markup": [
+        { "min": 0, "max": 150, "markup": 70 },
+        { "min": 150, "max": 400, "markup": 45 },
+        { "min": 400, "max": 800, "markup": 35 },
+        { "min": 800, "max": 1500, "markup": 25 },
+        { "min": 1500, "max": 3000, "markup": 20 },
+        { "min": 3000, "max": 999999, "markup": 15 }
+    ]
+}
