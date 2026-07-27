@@ -1,0 +1,39 @@
+name: Update feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v4
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build feed
+        run: python build_feed.py
+
+      - name: Save feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add output/feed.xml
+
+          if git diff --cached --quiet; then
+            echo "Изменений нет"
+          else
+            git commit -m "Automatic feed update"
+            git push
+          fi
