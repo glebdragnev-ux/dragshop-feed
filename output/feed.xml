@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-25 04:30">
+<yml_catalog date="2026-10-26 04:30">
 	<shop>
 		<currencies>
 			<currency id="UAH" rate="1.00" />
@@ -5550,24 +5550,6 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					ONLine, 3-ФАЗИ, RITAR, GP33-10KL, 384Vdc, 10KVA/8KW, зовнішній, вхід, фази-вихід, фаза, (830*402*1050mm), 153кг</keywords>
-			</offer>
-			<offer id="24981" available="true" selling_type="r">
-				<name>
-					Стабілізатор напруги інверторний VOLTER СНПТО Smart-27 (27000Вт), 220В, стабілізація 130-330В</name>
-				<categoryId>24952</categoryId>
-				<price>134691.45</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/24981.png</picture>
-				<vendor>VOLTER</vendor>
-				<vendorCode>24981</vendorCode>
-				<param name="Виробник">VOLTER</param>
-				<param name="Гарантійний термін" unit="міс.">120</param>
-				<param name="Стан">Новий</param>
-				<description>
-					ОПИС:&lt;br&gt;&lt;br&gt;Smart-27 – однофазний стабілізатор напруги для квартири або будинку максимальною потужністю 27 кВт, відноситься до серії Volter Smart,&lt;br&gt;призначений для забезпечення стабілізованою напругою всіх видів електроспоживачів при живленні від мережі з незадовільною якістю напруги.&lt;br&gt;Це пристрій подвійного перетворення без накопичення енергії.&lt;br&gt;&lt;br&gt;Переваги:&lt;br&gt;&lt;br&gt;Малошумні&lt;br&gt;Підвищена завадостійкість&lt;br&gt;Висока швидкодія&lt;br&gt;Можливість експлуатації при негативних температурах та підвищеній вологості&lt;br&gt;Підвищена пожежна безпека&lt;br&gt;Максимальна кількість захисту&lt;br&gt;Зручне підключення&lt;br&gt;Не спотворюють синусоїду&lt;br&gt;Стійкість до механічних впливів&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;&lt;br&gt;Тип – інверторний&lt;br&gt;Фазність – одна фаза&lt;br&gt;ККД, % - 98&lt;br&gt;Вхідний діапазон – 130-330 В&lt;br&gt;Швидкодія, мс - 1&lt;br&gt;Рівень шуму, дБ – 34-40, залежно від навантаження&lt;br&gt;Максимальний струм, А – 125&lt;br&gt;Максимальна потужність, кВт – 27&lt;br&gt;Спосіб монтажу - навісний&lt;br&gt;Охолодження – примусове&lt;br&gt;Вихідна напруга - 220 В&lt;br&gt;Макс. потужність при Umin, кВт – 16,2&lt;br&gt;Точність стабілізації – ±0,5 %&lt;br&gt;Крок стабілізації -&lt;br&gt;Кількість ступенів – безступінчастий&lt;br&gt;Відключення при Umin – 105 В&lt;br&gt;Відключення при Umax – 330 В&lt;br&gt;Відключення у транзиті - 260±5 В&lt;br&gt;Затримка включення – 4,5-7,5 с&lt;br&gt;Габарити (ВхШхГ), мм – 1100 x 320 x 150&lt;br&gt;Маса, кг – 27.4&lt;br&gt;Клас захисту - IP20&lt;br&gt;Вологість, трохи більше - 40…80%&lt;br&gt;Колір - сріблястий металік&lt;br&gt;Температурний діапазон - Робочий діапазон від плюс 1°С до 40°С у закритому приміщенні</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Стабілізатор, напруги, інверторний, VOLTER, СНПТО, Smart-27, (27000Вт), 220В, стабілізація, 130-330В</keywords>
 			</offer>
 			<offer id="44056" available="true" selling_type="r">
 				<name>
@@ -24622,27 +24604,6 @@
 				<keywords>
 					IP-виклична, панель, Mifare, зчитувачем, DHI-VTO2111D-P-S3</keywords>
 			</offer>
-			<offer id="46535" available="true" selling_type="r">
-				<name>
-					4МП циліндрична ColorVu 3,0 відеокамера зі звуком та SD картою Hikvision DS-2CD1047G3-LIUF (2.8 мм)</name>
-				<categoryId>12885</categoryId>
-				<price>8124.75</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/46535.png</picture>
-				<vendor>HIKVISION</vendor>
-				<vendorCode>46535</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">HIKVISION</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">12</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					4 МП циліндрична IP відеокамера Hikvision DS-2CD1047G3-LIUF (2.8 мм) з технологією ColorVu 3.0 забезпечує цілодобове кольорове відео високої якості. Завдяки світлосильному об’єктиву F1.0 та технології HikAI-ISP камера формує чітке зображення навіть при мінімальному освітленні.&lt;br&gt;&lt;br&gt;Об’єктив 2.8 мм забезпечує широкий кут огляду, що робить модель ідеальною для контролю відкритих територій, дворів, парковок та вхідних зон.&lt;br&gt;&lt;br&gt;Технологія Smart Hybrid Light поєднує інфрачервоне та біле підсвічування, автоматично адаптуючи освітлення залежно від умов. Дальність підсвітки до 30 метрів забезпечує ефективну роботу вночі.&lt;br&gt;&lt;br&gt;Камера оснащена вбудованим мікрофоном для запису звуку та підтримує microSD карту до 512 ГБ для локального зберігання відео без реєстратора.&lt;br&gt;&lt;br&gt;Інтелектуальна аналітика Motion Detection 3.0 дозволяє точно визначати людину та транспорт, зменшуючи кількість хибних спрацювань.&lt;br&gt;&lt;br&gt;Корпус із захистом IP67 забезпечує стабільну роботу пристрою за будь-яких погодних умов.&lt;br&gt;&lt;br&gt;Основні характеристики:&lt;br&gt;Роздільна здатність: 4 МП (2560×1440)&lt;br&gt;Об’єктив: 2.8 мм&lt;br&gt;Кут огляду: до 95.7°&lt;br&gt;Технологія: ColorVu 3.0 (кольорове відео 24/7)&lt;br&gt;Підсвітка: Smart Hybrid Light (ІЧ + біле світло), до 30 м&lt;br&gt;Діафрагма: F1.0&lt;br&gt;Стиснення: H.265+ / H.265 / H.264+ / H.264&lt;br&gt;Аудіо: вбудований мікрофон&lt;br&gt;Зберігання: microSD до 512 ГБ&lt;br&gt;Аналітика: людина / транспорт&lt;br&gt;Інтерфейс: RJ-45 (10/100 Мбіт/с)&lt;br&gt;Живлення: 12V DC / PoE (802.3af)&lt;br&gt;Ступінь захисту: IP67&lt;br&gt;Робоча температура: –30°C … +60°C</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					циліндрична, ColorVu, відеокамера, звуком, картою, Hikvision, DS-2CD1047G3-LIUF, (2.8</keywords>
-			</offer>
 			<offer id="46534" available="true" selling_type="r">
 				<name>
 					4МП циліндрична ColorVu 3,0 відеокамера зі звуком та SD картою Hikvision DS-2CD1047G3-LIUF (4мм)</name>
@@ -40938,27 +40899,6 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Акумуляторна, батарея, RITAR, RT12280, Gray, Case, 28Ah, (166х178х125)</keywords>
-			</offer>
-			<offer id="43475" available="true" selling_type="r">
-				<name>
-					Бездротовий 4G-LTE Wi-Fi роутер Ruijie Reyee RG-EW300T, 2.4 GHz, Wi-Fi 4, 175×100×25 мм</name>
-				<categoryId>26948</categoryId>
-				<price>3711.05</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/43475.png</picture>
-				<vendor>Ruijie Reyee</vendor>
-				<vendorCode>43475</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">Ruijie Reyee</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">12</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					4G LTE Wi-Fi роутер Ruijie Reyee RG-EW300T&lt;br&gt;&lt;br&gt;Ruijie Reyee RG-EW300T - це компактний 4G LTE роутер з підтримкою Wi-Fi N300, призначений для швидкого розгортання інтернету в місцях, де немає проводового підключення. Пристрій працює за принципом Plug and Play: достатньо встановити SIM-карту, включити живлення - мережа готова до роботи без складних налаштувань.&lt;br&gt;&lt;br&gt;Роутер використовує мобільні мережі LTE Cat.4 та забезпечує швидкість завантаження до 150 Мбіт/с, що робить його зручним рішенням для дому, офісу, торгових точок, тимчасових об'єктів, поїздок та віддалених локацій. Підтримка широкого діапазону частот LTE гарантує сумісність з більшістю операторів.&lt;br&gt;&lt;br&gt;Бездротова мережа Wi-Fi 2,4 ГГц з технологією 2×2 MIMO забезпечує стабільне покриття та швидкість до 300 Мбіт/с. Для покращення прийому сигналу пристрій оснащений чотирма зовнішніми антенами: двома LTE та двома Wi-Fi, що позитивно позначається як зв'язок навіть при нестабільному сигналі.&lt;br&gt;&lt;br&gt;RG-EW300T підтримує хмарне керування через Ruijie Reyee, дозволяючи віддалено контролювати стан мережі, підключені пристрої, перезавантажувати роутер і змінювати налаштування з будь-якої точки світу. Також пристрій може використовуватися як звичайний маршрутизатор завдяки комбінованому LAN/WAN-порту.&lt;br&gt;&lt;br&gt;Наявність трьох LAN-портів робить роутер зручним для підключення ПК, касових терміналів, камер відеоспостереження та іншого дротового обладнання. Підтримуються сучасні протоколи безпеки Wi-Fi, гостьова мережа та базові функції захисту.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Ключові переваги &lt;br&gt;• 4G LTE Cat.4 – до 150 Мбіт/с &lt;br&gt;• Wi-Fi N300 (2,4 ГГц, 2×2 MIMO) &lt;br&gt;• Plug and Play — без складного налаштування &lt;br&gt;• Хмарне керування через програму &lt;br&gt;• 4 зовнішні антени для стабільного сигналу &lt;br&gt;• 1× LAN/WAN + 3× LAN порту &lt;br&gt;• Підтримка більшості операторів &lt;br&gt;• Компактний та енергоефективний корпус</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Бездротовий, 4G-LTE, Wi-Fi, роутер, Ruijie, Reyee, RG-EW300T, Wi-Fi, 175×100×25</keywords>
 			</offer>
 			<offer id="35637" available="true" selling_type="r">
 				<name>
@@ -60569,27 +60509,6 @@
 				<keywords>
 					Мультиметр, UNI-T, UT51</keywords>
 			</offer>
-			<offer id="1930" available="true" selling_type="r">
-				<name>
-					Патч-корд литий Weepda, UTP, RJ45, Cat.6, 50м, синій, Cu (мідь)</name>
-				<categoryId>15903</categoryId>
-				<price>2100.00</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/01930.png</picture>
-				<vendor>Weepda</vendor>
-				<vendorCode>1930</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">Weepda</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">12</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Патч-корд литий Weepda Cat.6, 50 м - має блискавичну швидкість передачі сигналу, швидко і надійно з'єднає два пристрої з роз'ємами RJ-45 в єдине ціле і забезпечить стабільним інтернетом. Необхідний для підключення ноутбуків, пк, телевізійних приставок та ін. до мережного обладнання. (Роутер і тд)&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;• Інтерфейси: 2 Х RJ-45&lt;br&gt;• Категорія: Cat.6&lt;br&gt;• Тип: UTP (не екранований)&lt;br&gt;• Тип зовнішньої оболонки: PVC(ПВХ)&lt;br&gt;• Структура: 4 х 2 AWG 26/7, кручена пара&lt;br&gt;• Кількість контактів: 8 (багатожильний)&lt;br&gt;• Тип матеріалу жили: СU&lt;br&gt;• Матеріал провідника: мідь&lt;br&gt;• Робоча швидкість: 10/100/1000/10000BASE-TX (Fast Ethernet, 100/1000/10000 Мбіт/с)&lt;br&gt;• Довжина: 50 м&lt;br&gt;• Робоча температура: від -40°C до +60°C&lt;br&gt;• Кількість в упаковці: 1шт&lt;br&gt;• Колір синій</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Патч-корд, литий, Weepda, RJ45, Cat.6, синій, (мідь)</keywords>
-			</offer>
 			<offer id="30735" available="true" selling_type="r">
 				<name>
 					Захисне реле напруги однофазне D63 на DIN-рейку, 63А, 13900ВА, 120-280В, тримодульне з індикатором напруги (Червоний)</name>
@@ -61980,29 +61899,6 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					плата, JK-BD4A8S4P, Li-Ion/LiFePo4/LTO, 4S-8S, RS485, 2.8mΩ, Bluetooth, Ballance, 0.4A, кнопка</keywords>
-			</offer>
-			<offer id="39259" available="true" selling_type="r">
-				<name>
-					BMS плата JK-BD4A8S6P Li-Ion/LiFePo4/LTO 4S-8S, 60A, CAN/RS485, 2.8mΩ, Bluetooth, Ballance 0.4A + кнопка</name>
-				<categoryId>48917</categoryId>
-				<price>2030.40</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/39259.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/39259_1.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/39259_2.png</picture>
-				<vendor>JiKong</vendor>
-				<vendorCode>39259</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">JiKong</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">12</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Розумна Smart BMS плата JKBD4A8S6P (4S8S, 60A, активний балансир 0.4А, CAN/RS485, Bluetooth + кнопка)&lt;br&gt;&lt;br&gt;Ця плата від компанії Jikong (JK) - це "золота середина" для створення надійних акумуляторних систем середньої потужності на 12 (4S) або 24 (8S). Маючи номінальний струм у 60А, вона ідеально закриває потребу в тих проектах, де базових 40А вже недостатньо, а переплачувати за масивні плати на 100А немає необхідності.&lt;br&gt;&lt;br&gt;Вона відмінно підходить для човнових електромоторів, автобудинків (кемперів), систем автономного освітлення, ехолотів та резервних джерел безперебійного живлення (ДБЖ) для дому. &lt;br&gt;&lt;br&gt;Головні переваги та особливості моделі:&lt;br&gt;&lt;br&gt;* Повноцінний зв'язок з інверторами (CAN/RS485): На відміну від більш простих аналогів, ця модель оснащена інтерфейсами CAN та RS485. Це дозволяє інтегрувати батарею безпосередньо з розумними гібридними інверторами (Deye, Must, Growatt та ін) для обміну телеметрією та точного контролю заряду на рівні всієї системи.&lt;br&gt;* Інтелектуальний активний балансир (0.4А): Забудьте про пасивні плати, які повільно перетворюють надлишок енергії на тепло. Вбудований активний балансир на основі суперконденсаторного перенесення заряду переливає енергію з більш заряджених осередків у просілі. Він працює безперервно (при заряді, розряді і простої), зберігаючи ідеальний баланс і продовжуючи ресурс осередків.&lt;br&gt;* Мінімальні втрати енергії (2.8 мОм): Завдяки низькому опору силового ланцюга плата практично не нагрівається при роботі на номінальному струмі в 60А, забезпечуючи відмінний ККД та безпеку.&lt;br&gt;* Bluetooth моніторинг на смартфоні: Усі параметри збирання доступні в реальному часі у безкоштовному додатку JKBMS (iOS/Android). Контролюйте напругу кожної банки з точністю до мілівольт, налаштовуйте пороги спрацьовування захисту та відстежуйте залишок ємності.&lt;br&gt;* Металева кнопка зі світлодіодом: У комплекті йде виносна кнопка управління, яка дозволяє примусово запустити або вимкнути BMS без необхідності відкривати мобільний додаток. &lt;br&gt;&lt;br&gt;&lt;br&gt;Модель JKBD4A8S6P &lt;br&gt;Підтримувані типи хімії LiIon, LiFePO4, LTO &lt;br&gt;Кількість комірок у збірці (S) LiFePO4: 4S-8S LiIon: 3S-8S LTO: 6S-8S &lt;br&gt;Постійний струм розряду/заряду 60 А &lt;br&gt;Піковий струм розряду до 100 А &lt;br&gt;Струм активного балансування 0.4 А &lt;br&gt;Внутрішній опір ланцюга 2.8 мОм &lt;br&gt;Інтерфейси зв'язку Bluetooth (вбудований), CAN, RS485 &lt;br&gt;Температурний контроль 1 зовнішній датчик NTC + вбудований датчик плати &lt;br&gt;Габаритні розміри 116×83×18 мм</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					плата, JK-BD4A8S6P, Li-Ion/LiFePo4/LTO, 4S-8S, CAN/RS485, 2.8mΩ, Bluetooth, Ballance, 0.4A, кнопка</keywords>
 			</offer>
 			<offer id="39986" available="true" selling_type="r">
 				<name>
@@ -63697,6 +63593,31 @@
 				<keywords>
 					Захисне, реле, напруги, однофазне, D2-40, DIN-рейку, 8800ВА, 120-280В, двомодульне, індикатором, напруги, (Червоний)</keywords>
 			</offer>
+			<offer id="36340" available="true" selling_type="r">
+				<name>
+					Поворотний вимикач зовнішнього монтажу HGN4-L1-16, DC1000V, 16A, 2P, Grey</name>
+				<categoryId>38560</categoryId>
+				<price>1920.00</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/36340.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/36340_1.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/36340_2.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/36340_3.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/36340_4.png</picture>
+				<vendor>Saipwell</vendor>
+				<vendorCode>36340</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Saipwell</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">3</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Опис: Поворотний вимикач зовнішнього монтажу HGN4-L1-16, DC1000V, 16A, 2P, Grey&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Тип: Поворотний вимикач зовнішнього монтажу&lt;br&gt;- Модель: HGN4-L1-16&lt;br&gt;- Напруга: DC1000V&lt;br&gt;- Струм: 16A&lt;br&gt;- Кількість полюсів: 2&lt;br&gt;- Колір сірий</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Поворотний, вимикач, зовнішнього, монтажу, HGN4-L1-16, DC1000V, Grey</keywords>
+			</offer>
 			<offer id="36192" available="true" selling_type="r">
 				<name>
 					Набір електричної викрутки + біти 66-in-1, довжина тримача інструменту 180 мм, біти T3 магнітна, алюміній, Box</name>
@@ -63883,31 +63804,6 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					складний, Kershaw-1925, викруткою, біти, ручка, термопластик, довжина</keywords>
-			</offer>
-			<offer id="36340" available="true" selling_type="r">
-				<name>
-					Поворотний вимикач зовнішнього монтажу HGN4-L1-16, DC1000V, 16A, 2P, Grey</name>
-				<categoryId>38560</categoryId>
-				<price>1920.00</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/36340.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/36340_1.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/36340_2.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/36340_3.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/36340_4.png</picture>
-				<vendor>Saipwell</vendor>
-				<vendorCode>36340</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">Saipwell</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">3</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Опис: Поворотний вимикач зовнішнього монтажу HGN4-L1-16, DC1000V, 16A, 2P, Grey&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Тип: Поворотний вимикач зовнішнього монтажу&lt;br&gt;- Модель: HGN4-L1-16&lt;br&gt;- Напруга: DC1000V&lt;br&gt;- Струм: 16A&lt;br&gt;- Кількість полюсів: 2&lt;br&gt;- Колір сірий</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Поворотний, вимикач, зовнішнього, монтажу, HGN4-L1-16, DC1000V, Grey</keywords>
 			</offer>
 			<offer id="2079" available="true" selling_type="r">
 				<name>
@@ -83887,31 +83783,6 @@
 				<keywords>
 					Підставка, ноутбук, IceCoorel, 10-17", 60mm, 2500±10%, корпус, пластик, алюміній, TYPE-C, 400x305x39mm, Black</keywords>
 			</offer>
-			<offer id="35968" available="true" selling_type="r">
-				<name>
-					Геймпад Brazzers бездротовий для PS4 Wireless DUALSHOCK 4, роз'єм для навушників, LED light bar, Haki-Red, 3.7V, 600mAh, Blister-box</name>
-				<categoryId>35929</categoryId>
-				<price>1316.25</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/35968.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/35968_1.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/35968_2.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/35968_3.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/35968_4.png</picture>
-				<vendor>Brazzers</vendor>
-				<vendorCode>35968</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">Brazzers</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">6</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Опис:&lt;br&gt;Бездротовий геймпад Brazzers для PS4 з роз'ємом для навушників, світлодіодним підсвічуванням LED та кольором Haki-Red. Запакований у блок-упаковку.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Тип: бездротовий геймпад для PS4&lt;br&gt;- Роз'єм для навушників: Так&lt;br&gt;- LED підсвічування: Так&lt;br&gt;- Колір: Haki-Red&lt;br&gt;- Місткість батареї: 3.7V, 600mAh&lt;br&gt;- Упаковка: Blister-box</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Геймпад, Brazzers, бездротовий, Wireless, DUALSHOCK, роз'єм, навушників, light, Haki-Red, 3.7V, 600mAh, Blister-box</keywords>
-			</offer>
 			<offer id="35970" available="true" selling_type="r">
 				<name>
 					Геймпад Brazzers бездротовий для PS4 Wireless DUALSHOCK 4, роз'єм для навушників, LED light bar, Blue, 3.7V, 600mAh, Blister-box</name>
@@ -83961,6 +83832,31 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Геймпад, Brazzers, бездротовий, Wireless, DUALSHOCK, роз'єм, навушників, light, Haki-Green, 3.7V, 600mAh, Blister-box</keywords>
+			</offer>
+			<offer id="35968" available="true" selling_type="r">
+				<name>
+					Геймпад Brazzers бездротовий для PS4 Wireless DUALSHOCK 4, роз'єм для навушників, LED light bar, Haki-Red, 3.7V, 600mAh, Blister-box</name>
+				<categoryId>35929</categoryId>
+				<price>1316.25</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/35968.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/35968_1.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/35968_2.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/35968_3.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/35968_4.png</picture>
+				<vendor>Brazzers</vendor>
+				<vendorCode>35968</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Brazzers</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">6</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Опис:&lt;br&gt;Бездротовий геймпад Brazzers для PS4 з роз'ємом для навушників, світлодіодним підсвічуванням LED та кольором Haki-Red. Запакований у блок-упаковку.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Тип: бездротовий геймпад для PS4&lt;br&gt;- Роз'єм для навушників: Так&lt;br&gt;- LED підсвічування: Так&lt;br&gt;- Колір: Haki-Red&lt;br&gt;- Місткість батареї: 3.7V, 600mAh&lt;br&gt;- Упаковка: Blister-box</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Геймпад, Brazzers, бездротовий, Wireless, DUALSHOCK, роз'єм, навушників, light, Haki-Red, 3.7V, 600mAh, Blister-box</keywords>
 			</offer>
 			<offer id="34242" available="true" selling_type="r">
 				<name>
@@ -89200,27 +89096,6 @@
 				<keywords>
 					Муфта, оптична, Merlion, ML-OP-F005-48C, герметична, вводів, касет, зварок, матеріал, PP/PC</keywords>
 			</offer>
-			<offer id="35194" available="true" selling_type="r">
-				<name>
-					Контролер вологозахищений із вбудованим зчитувачем карт та брелоків Emarine 125 кГц, 2000 користувачів</name>
-				<categoryId>26143</categoryId>
-				<price>1207.50</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/35194.png</picture>
-				<vendor>ATIS</vendor>
-				<vendorCode>35194</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">ATIS</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">12</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Контролер-зчитувач ACPR-07 EM-W (black) використовується в системах контролю та керування доступом. Прилад здатний зчитувати індивідуальний код карти, брелока, браслета та завдяки вбудованому контролеру здійснювати контроль доступу до приміщення.&lt;br&gt;Зверніть увагу!&lt;br&gt;Для роботи з механічними та магнітними замками треба використовувати додаткове комутаційне реле, наприклад BS-1&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Технічні характеристики&lt;br&gt;Стандарт: EM-Marine 125 кГц&lt;br&gt;Дальність зчитування: 7 см&lt;br&gt;Кількість користувачів: 2000&lt;br&gt;Індикація доступу: звукова/світлова&lt;br&gt;Живлення: DС 12-18 В&lt;br&gt;Споживання: 35 мА&lt;br&gt;Габаритні розміри: 118х46х18 мм&lt;br&gt;Монтаж пристрою&lt;br&gt;Контролер-читач ACPR-07 EM-W (black) монтується на рівній поверхні. Висота установки, а також розміщення пристрою повинні забезпечити легкий та безперешкодний доступ карток та брелоків до пристрою.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Корпус&lt;br&gt;Корпус контролера-зчитувача ACPR-07 EM-W (black) виконаний із міцного пластику. Клас захисту IP66 (система класифікації ступеня захисту оболонки електроустаткування), що означає надійний захист внутрішніх компонентів від попадання пилу, а також стійкість до перепадів температур (-10°C ~ +60°C).&lt;br&gt;&lt;br&gt;Чорний колір робить встановлення цього пристрою практично непомітним і підійде під будь-який екстер'єр.&lt;br&gt;&lt;br&gt;Комплектація&lt;br&gt;контролер-зчитувач&lt;br&gt;2 майстер-карти&lt;br&gt;пульт керування&lt;br&gt;кріпильний комплект&lt;br&gt;інструкція</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Контролер, вологозахищений, вбудованим, зчитувачем, карт, брелоків, Emarine, 2000, користувачів</keywords>
-			</offer>
 			<offer id="33963" available="true" selling_type="r">
 				<name>
 					ІЧ-прожектор GY-IR006. 12V, 18W, 8LED, IP66, 850Нм, кут огляду 90 °, дальність до 70м.</name>
@@ -89242,6 +89117,27 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					ІЧ-прожектор, GY-IR006., 8LED, IP66, 850Нм, огляду, дальність, 70м.</keywords>
+			</offer>
+			<offer id="35194" available="true" selling_type="r">
+				<name>
+					Контролер вологозахищений із вбудованим зчитувачем карт та брелоків Emarine 125 кГц, 2000 користувачів</name>
+				<categoryId>26143</categoryId>
+				<price>1207.50</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/35194.png</picture>
+				<vendor>ATIS</vendor>
+				<vendorCode>35194</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">ATIS</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">12</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Контролер-зчитувач ACPR-07 EM-W (black) використовується в системах контролю та керування доступом. Прилад здатний зчитувати індивідуальний код карти, брелока, браслета та завдяки вбудованому контролеру здійснювати контроль доступу до приміщення.&lt;br&gt;Зверніть увагу!&lt;br&gt;Для роботи з механічними та магнітними замками треба використовувати додаткове комутаційне реле, наприклад BS-1&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Технічні характеристики&lt;br&gt;Стандарт: EM-Marine 125 кГц&lt;br&gt;Дальність зчитування: 7 см&lt;br&gt;Кількість користувачів: 2000&lt;br&gt;Індикація доступу: звукова/світлова&lt;br&gt;Живлення: DС 12-18 В&lt;br&gt;Споживання: 35 мА&lt;br&gt;Габаритні розміри: 118х46х18 мм&lt;br&gt;Монтаж пристрою&lt;br&gt;Контролер-читач ACPR-07 EM-W (black) монтується на рівній поверхні. Висота установки, а також розміщення пристрою повинні забезпечити легкий та безперешкодний доступ карток та брелоків до пристрою.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Корпус&lt;br&gt;Корпус контролера-зчитувача ACPR-07 EM-W (black) виконаний із міцного пластику. Клас захисту IP66 (система класифікації ступеня захисту оболонки електроустаткування), що означає надійний захист внутрішніх компонентів від попадання пилу, а також стійкість до перепадів температур (-10°C ~ +60°C).&lt;br&gt;&lt;br&gt;Чорний колір робить встановлення цього пристрою практично непомітним і підійде під будь-який екстер'єр.&lt;br&gt;&lt;br&gt;Комплектація&lt;br&gt;контролер-зчитувач&lt;br&gt;2 майстер-карти&lt;br&gt;пульт керування&lt;br&gt;кріпильний комплект&lt;br&gt;інструкція</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Контролер, вологозахищений, вбудованим, зчитувачем, карт, брелоків, Emarine, 2000, користувачів</keywords>
 			</offer>
 			<offer id="24125" available="true" selling_type="r">
 				<name>
@@ -110866,30 +110762,6 @@
 				<keywords>
 					Нічник-зволожувач, повітря, YT-96, живлення, кабелю</keywords>
 			</offer>
-			<offer id="34877" available="true" selling_type="r">
-				<name>
-					Штатив Nee Pho NP-2588, висота 52-180 см, Box</name>
-				<categoryId>39937</categoryId>
-				<price>943.65</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/34877.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/34877_1.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/34877_2.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/34877_3.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/34877_4.png</picture>
-				<vendor>NeePho</vendor>
-				<vendorCode>34877</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">NeePho</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">1</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Опис:&lt;br&gt;Штатив Nee Pho NP-2588 є універсальним штативом, який підходить для використання з різними відео- і фотокамерами. Він має регульовану висоту від 52 до 180 см і зручне кріплення для камери.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Висота: 52-180 см&lt;br&gt;- Тип: штатив&lt;br&gt;- Марка: Nee Pho&lt;br&gt;- Модель: NP-2588&lt;br&gt;- Матеріал: метал та пластик&lt;br&gt;- Комплектація: Box</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Штатив, NP-2588, висота, 52-180</keywords>
-			</offer>
 			<offer id="34871" available="true" selling_type="r">
 				<name>
 					Штатив Weifeng WT-3520, висота 55-140см, Box</name>
@@ -110913,6 +110785,30 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Штатив, Weifeng, WT-3520, висота, 55-140см</keywords>
+			</offer>
+			<offer id="34877" available="true" selling_type="r">
+				<name>
+					Штатив Nee Pho NP-2588, висота 52-180 см, Box</name>
+				<categoryId>39937</categoryId>
+				<price>943.65</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/34877.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/34877_1.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/34877_2.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/34877_3.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/34877_4.png</picture>
+				<vendor>NeePho</vendor>
+				<vendorCode>34877</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">NeePho</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Опис:&lt;br&gt;Штатив Nee Pho NP-2588 є універсальним штативом, який підходить для використання з різними відео- і фотокамерами. Він має регульовану висоту від 52 до 180 см і зручне кріплення для камери.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Висота: 52-180 см&lt;br&gt;- Тип: штатив&lt;br&gt;- Марка: Nee Pho&lt;br&gt;- Модель: NP-2588&lt;br&gt;- Матеріал: метал та пластик&lt;br&gt;- Комплектація: Box</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Штатив, NP-2588, висота, 52-180</keywords>
 			</offer>
 			<offer id="23945" available="true" selling_type="r">
 				<name>
@@ -113047,28 +112943,6 @@
 				<keywords>
 					PON-box, Merlion, ML-OP-S215-SC, 16-канальний, Simplex, adapter, матеріал, IP65</keywords>
 			</offer>
-			<offer id="31906" available="true" selling_type="r">
-				<name>
-					Муфта оптична Merlion ML-OP-F212-PLC, for 2pcs 1*8plc, SC adaptor, матеріал ABS</name>
-				<categoryId>31854</categoryId>
-				<price>909.90</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/31906.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/31906_1.png</picture>
-				<vendor>MERLION</vendor>
-				<vendorCode>31906</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">MERLION</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">3</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Муфта оптична Merlion ML-OP-F212-PLC призначена для використання з 2шт 1*8plc та оснащена SC-адаптером. Виготовлена ​​із матеріалу ABS.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;&lt;br&gt;- Тип: Муфта оптична&lt;br&gt;- Модель: Merlion ML-OP-F212-PLC&lt;br&gt;- Кількість: 2 шт&lt;br&gt;- Підтримувані модулі: 1*8plc&lt;br&gt;- Адаптер: SC&lt;br&gt;- Матеріал: ABS&lt;br&gt;- Розміри	330х275х105</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Муфта, оптична, Merlion, ML-OP-F212-PLC, 2pcs, 1*8plc, adaptor, матеріал</keywords>
-			</offer>
 			<offer id="31907" available="true" selling_type="r">
 				<name>
 					Муфта оптична Merlion ML-OP-F211-SC, 24 SC simplex adaptor, матеріал ABS</name>
@@ -113112,6 +112986,28 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Муфта, оптична, Merlion, ML-OP-F008-96C, герметична, введення, касет, зварок, матеріал</keywords>
+			</offer>
+			<offer id="31906" available="true" selling_type="r">
+				<name>
+					Муфта оптична Merlion ML-OP-F212-PLC, for 2pcs 1*8plc, SC adaptor, матеріал ABS</name>
+				<categoryId>31854</categoryId>
+				<price>909.90</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/31906.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/31906_1.png</picture>
+				<vendor>MERLION</vendor>
+				<vendorCode>31906</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">MERLION</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">3</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Муфта оптична Merlion ML-OP-F212-PLC призначена для використання з 2шт 1*8plc та оснащена SC-адаптером. Виготовлена ​​із матеріалу ABS.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;&lt;br&gt;- Тип: Муфта оптична&lt;br&gt;- Модель: Merlion ML-OP-F212-PLC&lt;br&gt;- Кількість: 2 шт&lt;br&gt;- Підтримувані модулі: 1*8plc&lt;br&gt;- Адаптер: SC&lt;br&gt;- Матеріал: ABS&lt;br&gt;- Розміри	330х275х105</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Муфта, оптична, Merlion, ML-OP-F212-PLC, 2pcs, 1*8plc, adaptor, матеріал</keywords>
 			</offer>
 			<offer id="34304" available="true" selling_type="r">
 				<name>
@@ -115644,6 +115540,28 @@
 				<keywords>
 					Мультиметр, Mayilon, MAS-830L, вимірювання:</keywords>
 			</offer>
+			<offer id="32201" available="true" selling_type="r">
+				<name>
+					Запальничка Турбо Lighter, упаковка 25шт, ціна за упаковку, Mix color</name>
+				<categoryId>25912</categoryId>
+				<price>869.40</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/32201.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/32201_1.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/32201_2.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>32201</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Опис: Запальничка Турбо Lighter є набір з 25 штук змішаних кольорів. Це упаковка, призначена для продажу. Ціна вказана за всю упаковку, що робить її ідеальним вибором для покупців.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Тип: Запальничка&lt;br&gt;- Модель: Турбо Lighter&lt;br&gt;- Упаковка: 25 штук&lt;br&gt;- Колір: Mix color (змішані кольори)&lt;br&gt;- Ціна: за упаковку</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Запальничка, Турбо, Lighter, упаковка, 25шт, ціна, упаковку, color</keywords>
+			</offer>
 			<offer id="32250" available="true" selling_type="r">
 				<name>
 					Мультиметр Mayilon HT-113, вимірювання: V, A, R</name>
@@ -115667,28 +115585,6 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Мультиметр, Mayilon, HT-113, вимірювання:</keywords>
-			</offer>
-			<offer id="32201" available="true" selling_type="r">
-				<name>
-					Запальничка Турбо Lighter, упаковка 25шт, ціна за упаковку, Mix color</name>
-				<categoryId>25912</categoryId>
-				<price>869.40</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/32201.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/32201_1.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/32201_2.png</picture>
-				<vendor>Voltronic</vendor>
-				<vendorCode>32201</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">Voltronic</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">1</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Опис: Запальничка Турбо Lighter є набір з 25 штук змішаних кольорів. Це упаковка, призначена для продажу. Ціна вказана за всю упаковку, що робить її ідеальним вибором для покупців.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Тип: Запальничка&lt;br&gt;- Модель: Турбо Lighter&lt;br&gt;- Упаковка: 25 штук&lt;br&gt;- Колір: Mix color (змішані кольори)&lt;br&gt;- Ціна: за упаковку</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Запальничка, Турбо, Lighter, упаковка, 25шт, ціна, упаковку, color</keywords>
 			</offer>
 			<offer id="31718" available="true" selling_type="r">
 				<name>
@@ -120244,30 +120140,6 @@
 				<keywords>
 					Клавіатура, провідна, HOCO, GM61, клавіші, (Eng/Pyc), Gray</keywords>
 			</offer>
-			<offer id="47126" available="true" selling_type="r">
-				<name>
-					Автотримач HOCO HW22+ Wireless Charging 15W, кріплення на торпеду, затискач 50-90мм, Black, Box</name>
-				<categoryId>36060</categoryId>
-				<price>808.65</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/47126.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/47126_1.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/47126_2.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/47126_3.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/47126_4.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/47126_5.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/47126_6.png</picture>
-				<vendor>HOCO</vendor>
-				<vendorCode>47126</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">HOCO</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">1</param>
-				<param name="Стан">Новий</param>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Автотримач, HOCO, HW22+, Wireless, Charging, кріплення, торпеду, затискач, 50-90мм, Black</keywords>
-			</offer>
 			<offer id="47216" available="true" selling_type="r">
 				<name>
 					Флеш-накопичувач T&amp;G 009 Star A, USB 3.0+Type-C, 64GB, Metal, Blister</name>
@@ -121716,30 +121588,6 @@
 				<keywords>
 					Ігрова, миша, провідна, PHANTOM, кнопок, 400-7200, Lighting, Windows, XP/Vista/Win7/8/10/11, Black, COLOR</keywords>
 			</offer>
-			<offer id="34726" available="true" selling_type="r">
-				<name>
-					Миша провідна iMICE T97, 7 кнопок, 1000/1600/2400/3200/4800/7200 DPI, Led Lighting, 1,3м, Windows XP/Vista/Win7/8/10 Mac OS X, Black, COLOR BOX, Q40</name>
-				<categoryId>15105</categoryId>
-				<price>789.75</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/34726.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/34726_1.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/34726_2.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/34726_3.png</picture>
-				<vendor>iMICE</vendor>
-				<vendorCode>34726</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">iMICE</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">12</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Опис:&lt;br&gt;Миша дротяна iMICE T97 - це зручний периферійний пристрій, призначений для роботи з комп'ютером. Вона забезпечує високу точність та чутливість, а також має стильний дизайн.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- 7 кнопок&lt;br&gt;- Роздільна здатність: 1000/1600/2400/3200/4800/7200 DPI&lt;br&gt;- Led підсвічування&lt;br&gt;- Довжина кабелю: 1,3 м&lt;br&gt;- Сумісність з Windows XP/Vista/Win7/8/10 та Mac OS X&lt;br&gt;- Колір чорний&lt;br&gt;- Упаковка: COLOR BOX&lt;br&gt;- Модель: Q40</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Миша, провідна, iMICE, кнопок, 1000/1600/2400/3200/4800/7200, Lighting, Windows, XP/Vista/Win7/8/10, Black, COLOR</keywords>
-			</offer>
 			<offer id="34727" available="true" selling_type="r">
 				<name>
 					Миша провідна iMICE T70, 8 кнопок, 1200/2400/4800/7200 DPI, Led Lighting, 1,8м, Windows XP/Vista/Win7/8/10 Mac OS X, Black, COLOR BOX, Q40</name>
@@ -121784,6 +121632,30 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Запальничка, турбо, BOSSJAZZ, BD-558, упаковка, 50шт, ціна, упаковку, Black</keywords>
+			</offer>
+			<offer id="34726" available="true" selling_type="r">
+				<name>
+					Миша провідна iMICE T97, 7 кнопок, 1000/1600/2400/3200/4800/7200 DPI, Led Lighting, 1,3м, Windows XP/Vista/Win7/8/10 Mac OS X, Black, COLOR BOX, Q40</name>
+				<categoryId>15105</categoryId>
+				<price>789.75</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/34726.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/34726_1.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/34726_2.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/34726_3.png</picture>
+				<vendor>iMICE</vendor>
+				<vendorCode>34726</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">iMICE</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">12</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Опис:&lt;br&gt;Миша дротяна iMICE T97 - це зручний периферійний пристрій, призначений для роботи з комп'ютером. Вона забезпечує високу точність та чутливість, а також має стильний дизайн.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- 7 кнопок&lt;br&gt;- Роздільна здатність: 1000/1600/2400/3200/4800/7200 DPI&lt;br&gt;- Led підсвічування&lt;br&gt;- Довжина кабелю: 1,3 м&lt;br&gt;- Сумісність з Windows XP/Vista/Win7/8/10 та Mac OS X&lt;br&gt;- Колір чорний&lt;br&gt;- Упаковка: COLOR BOX&lt;br&gt;- Модель: Q40</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Миша, провідна, iMICE, кнопок, 1000/1600/2400/3200/4800/7200, Lighting, Windows, XP/Vista/Win7/8/10, Black, COLOR</keywords>
 			</offer>
 			<offer id="25791" available="true" selling_type="r">
 				<name>
@@ -124873,27 +124745,6 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Навушники, H-32, White, iphone, 6/7/8</keywords>
-			</offer>
-			<offer id="1350" available="true" selling_type="r">
-				<name>
-					Акумулятор AZBIST Super AGM ASAGM-1270F2, Black Case, 12V 7.0Ah (151 х 65 х 94 (100)) Q10</name>
-				<categoryId>16905</categoryId>
-				<price>758.70</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/01350.png</picture>
-				<vendor>AZBIST</vendor>
-				<vendorCode>1350</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">AZBIST</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">12</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Акумулятор AZBIST Super AGM ASAGM-1270F2 – використовується у пристроях з невеликим споживанням енергії. Тому необхідно подбати про якісний акумулятор для забезпечення надійної, довгострокової роботи пристроїв. AZBIST Super AGM – твій вибір!&lt;br&gt;&lt;br&gt;Застосування:&lt;br&gt;• джерела безперебійного живлення&lt;br&gt;• у телекомунікаціях та промообладнанні;&lt;br&gt;• у системах резервного освітлення&lt;br&gt;• у складі систем відеоспостереження, сигналізації, контролю доступу&lt;br&gt;• у мережах пожежно-охоронних автоматизованих комплексів&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;• тип клем - F2&lt;br&gt;• тип батареї – AGM&lt;br&gt;• напруга – 12 V&lt;br&gt;• внутрішній опір – 23 мОм&lt;br&gt;• ємність – 7 Ah при 20 годинному розряді до 1,8 В на елемент при 25 °C&lt;br&gt;• ємність акумуляторної батареї становить:&lt;br&gt;- при температурі: 25°C – 100%&lt;br&gt;- при температурі: 0°C – 80%&lt;br&gt;• максимальний струм розряду – 105 А&lt;br&gt;• максимальний зарядний струм – 2,1 A&lt;br&gt;• напруга заряду в циклічному режимі – 14,4 В ~ 15 В при 25 °С&lt;br&gt;• напруга заряду в буферному режимі – 13,5 В ~ 13,8 В при 25 °С&lt;br&gt;• Діапазон робочих температур:&lt;br&gt;- розряд: -15 ° C ~ 50 ° C&lt;br&gt;- заряд: 0 ° C ~ 40 ° C&lt;br&gt;- зберігання: -15 ° C ~ 40 ° C&lt;br&gt;• розміри пристрою (ДхШхВ) – 151х65x94 мм&lt;br&gt;• вага – 2,1 кг (Допуск ± 5,0%)&lt;br&gt;• термін придатності: 10 років</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Акумулятор, AZBIST, Super, ASAGM-1270F2, Black, Case, 7.0Ah, (151, (100))</keywords>
 			</offer>
 			<offer id="13569" available="true" selling_type="r">
 				<name>
@@ -128518,29 +128369,6 @@
 				<keywords>
 					Тестер, розеток, ANENG, AC10, функція, перевірки</keywords>
 			</offer>
-			<offer id="32413" available="true" selling_type="r">
-				<name>
-					АЗУ для ноутбука ACER 19V 3.42A (65 Вт) штекер 3.0*1.1мм</name>
-				<categoryId>14950</categoryId>
-				<price>711.45</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/32413.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/32413_1.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/32413_2.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/32413_3.png</picture>
-				<vendor>Voltronic</vendor>
-				<vendorCode>32413</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">Voltronic</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">1</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Опис: Блок живлення для ноутбука ACER з вихідною напругою 19V і силою струму 3.42A (65 Вт). Штекер має розміри 3.0*1.1мм.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Напруга: 19V&lt;br&gt;- Сила струму: 3.42A&lt;br&gt;- Потужність: 65 Вт&lt;br&gt;- Штекер: 3.0*1.1мм</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					ноутбука, ACER, 3.42A, штекер, 3.0*1.1мм</keywords>
-			</offer>
 			<offer id="32414" available="true" selling_type="r">
 				<name>
 					АЗУ для ноутбука Asus 19V 3.42A (65 Вт) штекер 4.0*1.35мм</name>
@@ -128563,6 +128391,29 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					ноутбука, Asus, 3.42A, штекер, 4.0*1.35мм</keywords>
+			</offer>
+			<offer id="32413" available="true" selling_type="r">
+				<name>
+					АЗУ для ноутбука ACER 19V 3.42A (65 Вт) штекер 3.0*1.1мм</name>
+				<categoryId>14950</categoryId>
+				<price>711.45</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/32413.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/32413_1.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/32413_2.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/32413_3.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>32413</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Опис: Блок живлення для ноутбука ACER з вихідною напругою 19V і силою струму 3.42A (65 Вт). Штекер має розміри 3.0*1.1мм.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Напруга: 19V&lt;br&gt;- Сила струму: 3.42A&lt;br&gt;- Потужність: 65 Вт&lt;br&gt;- Штекер: 3.0*1.1мм</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					ноутбука, ACER, 3.42A, штекер, 3.0*1.1мм</keywords>
 			</offer>
 			<offer id="31146" available="true" selling_type="r">
 				<name>
@@ -131408,27 +131259,6 @@
 				<keywords>
 					Стяжки, липучці, ширина, 15мм, рулон, сірі, ціна, рулон</keywords>
 			</offer>
-			<offer id="32181" available="true" selling_type="r">
-				<name>
-					Високочутливий металошукач ANENG MD-3003B1</name>
-				<categoryId>30591</categoryId>
-				<price>688.50</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/32181.png</picture>
-				<vendor>ANENG</vendor>
-				<vendorCode>32181</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">ANENG</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">6</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Характеристики:&lt;br&gt;&lt;br&gt;• Матеріал: ABS&lt;br&gt;• Колір чорний&lt;br&gt;• Живлення: 9V 6F22 батарея (не входить до комплекту)&lt;br&gt;• Потужність: 270 мВт&lt;br&gt;• Оперативна напруга: 7-9 В&lt;br&gt;• Операційний струм: менше 50 мА&lt;br&gt;• Робоча частота: 22 кГц&lt;br&gt;• Розмір пристрою: 402 x 82,5 x 42,4 мм&lt;br&gt;• Вага пристрою: 316 г&lt;br&gt;• Розмір упаковки: 420 x 100 x 50 мм&lt;br&gt;• Вага упаковки: 400 г</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Високочутливий, металошукач, ANENG, MD-3003B1</keywords>
-			</offer>
 			<offer id="32203" available="true" selling_type="r">
 				<name>
 					Літій-залізо-фосфатний акумулятор LiFePO4 IFR32140 12500mah 3.2v, BLUE</name>
@@ -131450,6 +131280,27 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Літій-залізо-фосфатний, акумулятор, LiFePO4, IFR32140, 12500mah, 3.2v, BLUE</keywords>
+			</offer>
+			<offer id="32181" available="true" selling_type="r">
+				<name>
+					Високочутливий металошукач ANENG MD-3003B1</name>
+				<categoryId>30591</categoryId>
+				<price>688.50</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/32181.png</picture>
+				<vendor>ANENG</vendor>
+				<vendorCode>32181</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">ANENG</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">6</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Характеристики:&lt;br&gt;&lt;br&gt;• Матеріал: ABS&lt;br&gt;• Колір чорний&lt;br&gt;• Живлення: 9V 6F22 батарея (не входить до комплекту)&lt;br&gt;• Потужність: 270 мВт&lt;br&gt;• Оперативна напруга: 7-9 В&lt;br&gt;• Операційний струм: менше 50 мА&lt;br&gt;• Робоча частота: 22 кГц&lt;br&gt;• Розмір пристрою: 402 x 82,5 x 42,4 мм&lt;br&gt;• Вага пристрою: 316 г&lt;br&gt;• Розмір упаковки: 420 x 100 x 50 мм&lt;br&gt;• Вага упаковки: 400 г</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Високочутливий, металошукач, ANENG, MD-3003B1</keywords>
 			</offer>
 			<offer id="35582" available="true" selling_type="r">
 				<name>
@@ -132140,6 +131991,28 @@
 				<keywords>
 					Ізолента, CHINT, мм*18, мм*20, (зелена), 600v, temp:, -5°С/+, 80°С, ціна, упак.</keywords>
 			</offer>
+			<offer id="31998" available="true" selling_type="r">
+				<name>
+					PON-box Merlion ML-OP-S222-SC 12-канальний, SC Simplex adapter, матеріал ABS, IP65</name>
+				<categoryId>31854</categoryId>
+				<price>680.40</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/31998.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/31998_1.png</picture>
+				<vendor>MERLION</vendor>
+				<vendorCode>31998</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">MERLION</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">3</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					PON-бокс Merlion ML-OP-S222-SC 12-канальний призначений для захисту та організації оптичного кабелю всередині приміщень та на відкритому повітрі. Виготовлений з матеріалу ABS із захистом від вологи та пилу (IP65) та оснащений SC Simplex адаптером.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Модель: PON-бокс Merlion ML-OP-S222-SC&lt;br&gt;- Місткість: 12 каналів&lt;br&gt;- Тип адаптера: SC Simplex&lt;br&gt;- Матеріал: ABS&lt;br&gt;- Рівень захисту: IP65&lt;br&gt;- Розміри	225х215х75</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					PON-box, Merlion, ML-OP-S222-SC, 12-канальний, Simplex, adapter, матеріал, IP65</keywords>
+			</offer>
 			<offer id="31956" available="true" selling_type="r">
 				<name>
 					4-портовий KVM свіч, VGA, USB</name>
@@ -132164,28 +132037,6 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					4-портовий, свіч</keywords>
-			</offer>
-			<offer id="31998" available="true" selling_type="r">
-				<name>
-					PON-box Merlion ML-OP-S222-SC 12-канальний, SC Simplex adapter, матеріал ABS, IP65</name>
-				<categoryId>31854</categoryId>
-				<price>680.40</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/31998.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/31998_1.png</picture>
-				<vendor>MERLION</vendor>
-				<vendorCode>31998</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">MERLION</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">3</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					PON-бокс Merlion ML-OP-S222-SC 12-канальний призначений для захисту та організації оптичного кабелю всередині приміщень та на відкритому повітрі. Виготовлений з матеріалу ABS із захистом від вологи та пилу (IP65) та оснащений SC Simplex адаптером.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Модель: PON-бокс Merlion ML-OP-S222-SC&lt;br&gt;- Місткість: 12 каналів&lt;br&gt;- Тип адаптера: SC Simplex&lt;br&gt;- Матеріал: ABS&lt;br&gt;- Рівень захисту: IP65&lt;br&gt;- Розміри	225х215х75</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					PON-box, Merlion, ML-OP-S222-SC, 12-канальний, Simplex, adapter, матеріал, IP65</keywords>
 			</offer>
 			<offer id="26840" available="true" selling_type="r">
 				<name>
@@ -148542,26 +148393,6 @@
 				<keywords>
 					Контролер, управління, безщіткового, двигуна, електротранспорту, 48V/60V/64V-350W</keywords>
 			</offer>
-			<offer id="4664" available="true" selling_type="r">
-				<name>
-					Налобний Ліхтарик Bailong BL-2188B-T6, Cree XML-T, 3 реж., Zoom, корпус-алюміній, водостійкий, ударостійкий, 18650 ак-тор, USB кабель, BOX</name>
-				<categoryId>5211</categoryId>
-				<price>567.00</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/04664.png</picture>
-				<vendor>BAILONG</vendor>
-				<vendorCode>4664</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">BAILONG</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">2</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Налобний ліхтарик Bailong BL-2188B-T6 - відрізняється від попередніх моделей високою потужністю. Ліхтар працює на світлодіоді Cree XML-T, що дозволяє освітити простір до 1000 метрів в режимі узко- наведенего променю. Корпус ліхтаря виготовлений з прочного ударостійкого та водостійкого алюмінію, із захистом від корозії. Так що хоч в сніг хоч в дощ, ліхтар тебе тебе не підведе. Він має 3 режими світіння і ремені для кріплення на голові. Розберімось навіщо вам цей ліхтарик.. Якщо ви ремонтуєте електрику, покладіть ліхтар на голову! А руки вільні й прекрасно освітлений вид робочої зони. Ви любите піші походи, риболовлю або гори? Ви любите їздити на велосипеді або вечірні пробіжки? Ви інсталятор, будівельник, рятувальник?  У всьому цьому вам допоможе налобний ліхтар. Ця модель також має функцію фокусування, яка допоможе вам налаштувати необхідний рівень і діапазон освітлення. Зробити це досить легко за допомогою поворотного кільця з фіксатором. Якщо ви заблукали або в біді, увімкніть режим стробоскопа і наведіть ліхтар на небо, він може визначити ваше місцеперебування.&lt;br&gt;&lt;br&gt;Переваги налобного ліхтаря;&lt;br&gt;* Він компактний. Ви можете покласти його в рюкзак або сумку.&lt;br&gt;* Він має тривалий термін служби від акумуляторів&lt;br&gt;* Звільняє руки, щоб мати можливість виконувати різні завдання&lt;br&gt;* Універсальність&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;* Светодіод Cree XML-T6&lt;br&gt;* Колькість режимів - 3 (100% / 50% / стробоскоп)&lt;br&gt;* Світловий поток- люмен 1200&lt;br&gt;* Дальність світлового потоку, м 200&lt;br&gt;* Фокусировка (Zoom) - є&lt;br&gt;* Час безперервної роботи -  ч 5-7&lt;br&gt;* Матеріал корпусу - Анодирований алюміній&lt;br&gt;* Живлення - Аккумулятор 2 * 18650&lt;br&gt;* Дліна ліхтарика - (мм.) 80&lt;br&gt;* Діаметр лінзи - (мм) 21&lt;br&gt;* Вага -  265 г&lt;br&gt;&lt;br&gt;&lt;br&gt;Комплектація&lt;br&gt;* Ліхтарик BL-2188B-T6,&lt;br&gt;* акумулятор Bailong 2 * 18650,&lt;br&gt;* подарочна картонна коробка</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Налобний, Ліхтарик, Bailong, BL-2188B-T6, Cree, XML-T, реж., Zoom, корпус-алюміній, водостійкий, ударостійкий, 18650, ак-тор, кабель</keywords>
-			</offer>
 			<offer id="18683" available="true" selling_type="r">
 				<name>
 					ЗУ універсальне Liitokala Lii-S1,1 канал, LCD дисплей, підтримує Li-ion, Ni-MH та Ni-Cd AA (R6), ААA (R03), AAAA, С (R14)</name>
@@ -161051,27 +160882,6 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Кабель, Type-C/Apple, MagSafe, довжина</keywords>
-			</offer>
-			<offer id="43986" available="true" selling_type="r">
-				<name>
-					Ліхтарик велосипедний HY-7518, 4 режими + сигнал, вбудований аккум, індикація заряду, USB кабель, BOX</name>
-				<categoryId>13455</categoryId>
-				<price>507.50</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/43986.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/43986_1.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/43986_2.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/43986_3.png</picture>
-				<vendor>Voltronic</vendor>
-				<vendorCode>43986</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">Voltronic</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">1</param>
-				<param name="Стан">Новий</param>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Ліхтарик, велосипедний, HY-7518, режими, сигнал, вбудований, аккум, індикація, заряду, кабель</keywords>
 			</offer>
 			<offer id="44269" available="true" selling_type="r">
 				<name>
@@ -181250,27 +181060,6 @@
 				<keywords>
 					Килимок, 400*900, тканинний, RAZER, боковою, прошивкою, товщина, колір, Black/Blue, Пакет</keywords>
 			</offer>
-			<offer id="36108" available="true" selling_type="r">
-				<name>
-					Килимок 400*900 тканинний RAZER 28 з боковою прошивкою, товщина 2 мм, колір Black/Blue, Пакет</name>
-				<categoryId>24886</categoryId>
-				<price>382.80</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/36108.png</picture>
-				<vendor>Voltronic</vendor>
-				<vendorCode>36108</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">Voltronic</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">1</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Тканинний килимок RAZER з боковою прошивкою та розміром 400*900 мм та товщиною 2 мм, представлений у чорно-синьому кольорі. Він поставляється в пакеті для зручності зберігання та транспортування.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Розмір: 400*900 мм&lt;br&gt;- Тканинний матеріал&lt;br&gt;- Товщина: 2 мм&lt;br&gt;- Колір: чорно-синій&lt;br&gt;- Бічна прошивка&lt;br&gt;- Поставляється у пакеті</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Килимок, 400*900, тканинний, RAZER, боковою, прошивкою, товщина, колір, Black/Blue, Пакет</keywords>
-			</offer>
 			<offer id="36104" available="true" selling_type="r">
 				<name>
 					Килимок 400*900 тканинний RAZER 26 з боковою прошивкою, товщина 2 мм, колір Black/Green, Пакет</name>
@@ -181312,6 +181101,27 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Килимок, 400*900, тканинний, RAZER, боковою, прошивкою, товщина, Пакет</keywords>
+			</offer>
+			<offer id="36108" available="true" selling_type="r">
+				<name>
+					Килимок 400*900 тканинний RAZER 28 з боковою прошивкою, товщина 2 мм, колір Black/Blue, Пакет</name>
+				<categoryId>24886</categoryId>
+				<price>382.80</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/36108.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>36108</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Тканинний килимок RAZER з боковою прошивкою та розміром 400*900 мм та товщиною 2 мм, представлений у чорно-синьому кольорі. Він поставляється в пакеті для зручності зберігання та транспортування.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Розмір: 400*900 мм&lt;br&gt;- Тканинний матеріал&lt;br&gt;- Товщина: 2 мм&lt;br&gt;- Колір: чорно-синій&lt;br&gt;- Бічна прошивка&lt;br&gt;- Поставляється у пакеті</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Килимок, 400*900, тканинний, RAZER, боковою, прошивкою, товщина, колір, Black/Blue, Пакет</keywords>
 			</offer>
 			<offer id="35893" available="true" selling_type="r">
 				<name>
@@ -185702,6 +185512,27 @@
 				<keywords>
 					Оптична, патч-панель, Merlion, ML-OP-S403A-4C, 4-канальна, Simplex, adapter, (200*110*35мм)</keywords>
 			</offer>
+			<offer id="34390" available="true" selling_type="r">
+				<name>
+					Сумка для ноутбука Merlion 14" з плечовим ременем, Gray</name>
+				<categoryId>2954</categoryId>
+				<price>356.70</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/34390.png</picture>
+				<vendor>MERLION</vendor>
+				<vendorCode>34390</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">MERLION</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">3</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Універсальна та стильна сумка Merlion 14" - ідеальне рішення для тих, хто шукає зручний та надійний спосіб переносити свій ноутбук та інші необхідні речі.&lt;br&gt;&lt;br&gt;Використання:&lt;br&gt;- Перенесення ноутбука: Сумка призначена для безпечного транспортування ноутбуків до 14 дюймів. Завдяки своїм компактним розмірам ви зможете легко переносити свій ноутбук усюди, куди вам треба.&lt;br&gt;- Організація простору: Внутрішні кишені дозволяють організувати простір для ноутбука, зарядного пристрою, документів та інших дрібниць.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;• Розмір: 36см x 27см x 3см&lt;br&gt;• Матеріал: Тканина Оксфорд&lt;br&gt;• Застосовна підлога: Унісекс</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Сумка, ноутбука, Merlion, плечовим, ременем, Gray</keywords>
+			</offer>
 			<offer id="34396" available="true" selling_type="r">
 				<name>
 					Сумка для ноутбука Merlion 14", з плечовим ременем, Blue</name>
@@ -185723,27 +185554,6 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Сумка, ноутбука, Merlion, плечовим, ременем, Blue</keywords>
-			</offer>
-			<offer id="34390" available="true" selling_type="r">
-				<name>
-					Сумка для ноутбука Merlion 14" з плечовим ременем, Gray</name>
-				<categoryId>2954</categoryId>
-				<price>356.70</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/34390.png</picture>
-				<vendor>MERLION</vendor>
-				<vendorCode>34390</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">MERLION</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">3</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Універсальна та стильна сумка Merlion 14" - ідеальне рішення для тих, хто шукає зручний та надійний спосіб переносити свій ноутбук та інші необхідні речі.&lt;br&gt;&lt;br&gt;Використання:&lt;br&gt;- Перенесення ноутбука: Сумка призначена для безпечного транспортування ноутбуків до 14 дюймів. Завдяки своїм компактним розмірам ви зможете легко переносити свій ноутбук усюди, куди вам треба.&lt;br&gt;- Організація простору: Внутрішні кишені дозволяють організувати простір для ноутбука, зарядного пристрою, документів та інших дрібниць.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;• Розмір: 36см x 27см x 3см&lt;br&gt;• Матеріал: Тканина Оксфорд&lt;br&gt;• Застосовна підлога: Унісекс</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Сумка, ноутбука, Merlion, плечовим, ременем, Gray</keywords>
 			</offer>
 			<offer id="34594" available="true" selling_type="r">
 				<name>
@@ -188272,27 +188082,6 @@
 				<keywords>
 					Туманоутворювач, Patio, Mistcooling, YT154</keywords>
 			</offer>
-			<offer id="35895" available="true" selling_type="r">
-				<name>
-					Килимок 300*700 тканинний RAZER GALIAFHUS з боковою прошивкою, товщина 3 мм, колір Black/Turquoise, OEM</name>
-				<categoryId>24886</categoryId>
-				<price>339.30</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/35895.png</picture>
-				<vendor>Voltronic</vendor>
-				<vendorCode>35895</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">Voltronic</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">1</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Тканинний килимок RAZER GALIAFHUS з боковою прошивкою має товщину 3 мм та розмір 300*700. Він представлений у чорно-бірюзовому кольорі та має логотип OEM.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Тип: тканинний&lt;br&gt;- Модель: RAZER GALIAFHUS&lt;br&gt;- Розмір: 300 * 700&lt;br&gt;- Товщина: 3 мм&lt;br&gt;- Колір: чорно-бірюзовий&lt;br&gt;- Логотип: OEM</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Килимок, 300*700, тканинний, RAZER, GALIAFHUS, боковою, прошивкою, товщина, колір, Black/Turquoise</keywords>
-			</offer>
 			<offer id="35899" available="true" selling_type="r">
 				<name>
 					Килимок 300*700 тканинний RAZER GALIAFHUS з боковою прошивкою, товщина 3 мм, колір Black/Grey, OEM</name>
@@ -188313,6 +188102,27 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Килимок, 300*700, тканинний, RAZER, GALIAFHUS, боковою, прошивкою, товщина, колір, Black/Grey</keywords>
+			</offer>
+			<offer id="35895" available="true" selling_type="r">
+				<name>
+					Килимок 300*700 тканинний RAZER GALIAFHUS з боковою прошивкою, товщина 3 мм, колір Black/Turquoise, OEM</name>
+				<categoryId>24886</categoryId>
+				<price>339.30</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/35895.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>35895</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Тканинний килимок RAZER GALIAFHUS з боковою прошивкою має товщину 3 мм та розмір 300*700. Він представлений у чорно-бірюзовому кольорі та має логотип OEM.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Тип: тканинний&lt;br&gt;- Модель: RAZER GALIAFHUS&lt;br&gt;- Розмір: 300 * 700&lt;br&gt;- Товщина: 3 мм&lt;br&gt;- Колір: чорно-бірюзовий&lt;br&gt;- Логотип: OEM</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Килимок, 300*700, тканинний, RAZER, GALIAFHUS, боковою, прошивкою, товщина, колір, Black/Turquoise</keywords>
 			</offer>
 			<offer id="35901" available="true" selling_type="r">
 				<name>
@@ -195789,6 +195599,27 @@
 				<keywords>
 					Наконечник, кабельний, "DT", DT-150, довжина, 97.6мм, діам., клеми, 145мм, обтискання, мідь, 10шт, упаковці, ціна, штуку</keywords>
 			</offer>
+			<offer id="36168" available="true" selling_type="r">
+				<name>
+					Килимок 300*700 тканинний Карта світу13 з бічним прошивкою, товщина 3 мм, Пакет</name>
+				<categoryId>24884</categoryId>
+				<price>304.50</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/36168.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>36168</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Тканинний килимок із картою світу відмінно підійде для прикраси інтер'єру та захисту підлоги. З боковою прошивкою та товщиною 3 мм, він є функціональним та стильним елементом декору.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Розмір: 300 * 700 мм&lt;br&gt;- Матеріал: тканина&lt;br&gt;- Дизайн: карта світу 13&lt;br&gt;- Товщина: 3 мм&lt;br&gt;- У комплекті: пакет</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Килимок, 300*700, тканинний, Карта, світу13, бічним, прошивкою, товщина, Пакет</keywords>
+			</offer>
 			<offer id="36166" available="true" selling_type="r">
 				<name>
 					Килимок 300*700 тканинний Карта світу "Flags" з боковою прошивкою, товщина 3 мм, колір Black, Пакет</name>
@@ -195999,27 +195830,6 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Килимок, 300*700, тканинний, DOTA2, товщина, колір, Black-Red</keywords>
-			</offer>
-			<offer id="36168" available="true" selling_type="r">
-				<name>
-					Килимок 300*700 тканинний Карта світу13 з бічним прошивкою, товщина 3 мм, Пакет</name>
-				<categoryId>24884</categoryId>
-				<price>304.50</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/36168.png</picture>
-				<vendor>Voltronic</vendor>
-				<vendorCode>36168</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">Voltronic</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">1</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Тканинний килимок із картою світу відмінно підійде для прикраси інтер'єру та захисту підлоги. З боковою прошивкою та товщиною 3 мм, він є функціональним та стильним елементом декору.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Розмір: 300 * 700 мм&lt;br&gt;- Матеріал: тканина&lt;br&gt;- Дизайн: карта світу 13&lt;br&gt;- Товщина: 3 мм&lt;br&gt;- У комплекті: пакет</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Килимок, 300*700, тканинний, Карта, світу13, бічним, прошивкою, товщина, Пакет</keywords>
 			</offer>
 			<offer id="36171" available="true" selling_type="r">
 				<name>
@@ -198679,6 +198489,29 @@
 				<keywords>
 					Автоутримувач, H-CT325</keywords>
 			</offer>
+			<offer id="35687" available="true" selling_type="r">
+				<name>
+					Набір лез BAKKU BA-219 (Stainless steel)</name>
+				<categoryId>11256</categoryId>
+				<price>298.70</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/35687.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/35687_1.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/35687_2.png</picture>
+				<vendor>BAKU</vendor>
+				<vendorCode>35687</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">BAKU</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">3</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Опис:&lt;br&gt;Набір лез BAKKU BA-219 виконаний з нержавіючої сталі та призначений для різних видів ріжучих робіт.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;1. Матеріал: нержавіюча сталь&lt;br&gt;2. Число лез у наборі: 5 штук&lt;br&gt;3. Підходить для використання в різних областях, включаючи різьблення по дереву, різання картонних упаковок та багато інших видів робіт&lt;br&gt;4. Міцні та гострі леза, що забезпечують точні та чисті розрізи&lt;br&gt;5. Зручна упаковка для зберігання лез після використання</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Набір, BAKKU, BA-219, (Stainless, steel)</keywords>
+			</offer>
 			<offer id="35573" available="true" selling_type="r">
 				<name>
 					Бездротовий мережний адаптер з антеною Wi-Fi-USB LV-UW11RK-5DB MTK7601, 150Mbps, 2.4 GHz, Win10/8.1/8/7/XP,Mac OSX 10.7~10.10 and Linux, Box</name>
@@ -198702,29 +198535,6 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Бездротовий, мережний, адаптер, антеною, Wi-Fi-USB, LV-UW11RK-5DB, MTK7601, 150Mbps, Win10/8.1/8/7/XPMac, 10.7~10.10, Linux</keywords>
-			</offer>
-			<offer id="35687" available="true" selling_type="r">
-				<name>
-					Набір лез BAKKU BA-219 (Stainless steel)</name>
-				<categoryId>11256</categoryId>
-				<price>298.70</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/35687.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/35687_1.png</picture>
-				<picture>https://b2b.yugtorg.com/image/data/35687_2.png</picture>
-				<vendor>BAKU</vendor>
-				<vendorCode>35687</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">BAKU</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">3</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Опис:&lt;br&gt;Набір лез BAKKU BA-219 виконаний з нержавіючої сталі та призначений для різних видів ріжучих робіт.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;1. Матеріал: нержавіюча сталь&lt;br&gt;2. Число лез у наборі: 5 штук&lt;br&gt;3. Підходить для використання в різних областях, включаючи різьблення по дереву, різання картонних упаковок та багато інших видів робіт&lt;br&gt;4. Міцні та гострі леза, що забезпечують точні та чисті розрізи&lt;br&gt;5. Зручна упаковка для зберігання лез після використання</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Набір, BAKKU, BA-219, (Stainless, steel)</keywords>
 			</offer>
 			<offer id="35888" available="true" selling_type="r">
 				<name>
@@ -199919,6 +199729,27 @@
 				<keywords>
 					Килимок, 300*800, тканинний, Venom, боковою, прошивкою, товщина, Black, Пакет</keywords>
 			</offer>
+			<offer id="34450" available="true" selling_type="r">
+				<name>
+					Клітина для барбекю, кругла, 20x9, 3cm</name>
+				<categoryId>31497</categoryId>
+				<price>292.90</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/34450.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>34450</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">3</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Клітка для барбекю, кругла, 20x9,3 см: опис та характеристики&lt;br&gt;&lt;br&gt;Ця кругла клітина для барбекю – незамінний помічник для приготування найсмачніших страв на грилі. Вона ідеально підходить для смаження овочів, м'яса, риби, морепродуктів та навіть тостів. Завдяки своїй конструкції клітина забезпечує рівномірне пропікання продуктів з усіх боків, зберігаючи при цьому їх соковитість і аромат.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;&lt;br&gt;- Форма: кругла&lt;br&gt;- Діаметр: 20 см&lt;br&gt;- Висота: 9,3 см&lt;br&gt;- Матеріал: високоякісна сталь (вкажіть конкретний матеріал, якщо він відомий)&lt;br&gt;- Покриття: (вкажіть тип покриття, наприклад, хромоване, антипригарне і т.д.)&lt;br&gt;- Особливості: &lt;br&gt;- Зручна ручка для перенесення та перевертання&lt;br&gt;- Замок для фіксації кришки&lt;br&gt;- Компактний розмір для зручного зберігання&lt;br&gt;&lt;br&gt;Переваги:&lt;br&gt;&lt;br&gt;- Рівномірне пропікання продуктів з усіх боків&lt;br&gt;- Збереження соковитості та аромату страв&lt;br&gt;- Запобігання пригоранню продуктів&lt;br&gt;- Простота використання та очищення&lt;br&gt;- Довговічність та зносостійкість&lt;br&gt;&lt;br&gt;Застосування:&lt;br&gt;&lt;br&gt;Клітка для барбекю ідеально підходить для:&lt;br&gt;&lt;br&gt;- Смаження овочів (перець, цибуля, помідори, баклажани)&lt;br&gt;- Приготування м'яса (стейки, курячі крильця, ковбаски)&lt;br&gt;- Смаження риби та морепродуктів (креветки, мідії)&lt;br&gt;- Приготування тостів та сендвічів&lt;br&gt;&lt;br&gt;Додаткова інформація:&lt;br&gt;&lt;br&gt;- Можна мити в посудомийній машині (вкажіть, якщо це так)&lt;br&gt;- Підходить для використання на різних типах грилів (газовий, вугільний)&lt;br&gt;&lt;br&gt;&lt;br&gt;Важливо: &lt;br&gt;&lt;br&gt;- Перед першим використанням рекомендується промити клітину теплою водою з миючим засобом.&lt;br&gt;- Щоб уникнути опіків, використовуйте термостійкі рукавички при роботі з гарячою клітиною.</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Клітина, барбекю, кругла, 20x9</keywords>
+			</offer>
 			<offer id="34811" available="true" selling_type="r">
 				<name>
 					АЗП KWG-Р1, 12-24V, 2xUSB, 5V, клеми, Black, Box</name>
@@ -199964,27 +199795,6 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Акумулятор, 18650, Li-Ion, LiitoKala, Lii-34B-N, 3400mAh, (3200-3400mAh), 3.7V, (2.75-4.2V), Green</keywords>
-			</offer>
-			<offer id="34450" available="true" selling_type="r">
-				<name>
-					Клітина для барбекю, кругла, 20x9, 3cm</name>
-				<categoryId>31497</categoryId>
-				<price>292.90</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/34450.png</picture>
-				<vendor>Voltronic</vendor>
-				<vendorCode>34450</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">Voltronic</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">3</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Клітка для барбекю, кругла, 20x9,3 см: опис та характеристики&lt;br&gt;&lt;br&gt;Ця кругла клітина для барбекю – незамінний помічник для приготування найсмачніших страв на грилі. Вона ідеально підходить для смаження овочів, м'яса, риби, морепродуктів та навіть тостів. Завдяки своїй конструкції клітина забезпечує рівномірне пропікання продуктів з усіх боків, зберігаючи при цьому їх соковитість і аромат.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;&lt;br&gt;- Форма: кругла&lt;br&gt;- Діаметр: 20 см&lt;br&gt;- Висота: 9,3 см&lt;br&gt;- Матеріал: високоякісна сталь (вкажіть конкретний матеріал, якщо він відомий)&lt;br&gt;- Покриття: (вкажіть тип покриття, наприклад, хромоване, антипригарне і т.д.)&lt;br&gt;- Особливості: &lt;br&gt;- Зручна ручка для перенесення та перевертання&lt;br&gt;- Замок для фіксації кришки&lt;br&gt;- Компактний розмір для зручного зберігання&lt;br&gt;&lt;br&gt;Переваги:&lt;br&gt;&lt;br&gt;- Рівномірне пропікання продуктів з усіх боків&lt;br&gt;- Збереження соковитості та аромату страв&lt;br&gt;- Запобігання пригоранню продуктів&lt;br&gt;- Простота використання та очищення&lt;br&gt;- Довговічність та зносостійкість&lt;br&gt;&lt;br&gt;Застосування:&lt;br&gt;&lt;br&gt;Клітка для барбекю ідеально підходить для:&lt;br&gt;&lt;br&gt;- Смаження овочів (перець, цибуля, помідори, баклажани)&lt;br&gt;- Приготування м'яса (стейки, курячі крильця, ковбаски)&lt;br&gt;- Смаження риби та морепродуктів (креветки, мідії)&lt;br&gt;- Приготування тостів та сендвічів&lt;br&gt;&lt;br&gt;Додаткова інформація:&lt;br&gt;&lt;br&gt;- Можна мити в посудомийній машині (вкажіть, якщо це так)&lt;br&gt;- Підходить для використання на різних типах грилів (газовий, вугільний)&lt;br&gt;&lt;br&gt;&lt;br&gt;Важливо: &lt;br&gt;&lt;br&gt;- Перед першим використанням рекомендується промити клітину теплою водою з миючим засобом.&lt;br&gt;- Щоб уникнути опіків, використовуйте термостійкі рукавички при роботі з гарячою клітиною.</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Клітина, барбекю, кругла, 20x9</keywords>
 			</offer>
 			<offer id="27135" available="true" selling_type="r">
 				<name>
@@ -208683,27 +208493,6 @@
 				<keywords>
 					Килимок, 300*700, тканинний, forest, бічним, прошивкою, товщина, Пакет</keywords>
 			</offer>
-			<offer id="35621" available="true" selling_type="r">
-				<name>
-					Килимок 300*700 тканинний Drift concept з бічним прошивкою, товщина 2 мм, Dark blue, Пакет</name>
-				<categoryId>37226</categoryId>
-				<price>255.20</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/35621.png</picture>
-				<vendor>Voltronic</vendor>
-				<vendorCode>35621</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">Voltronic</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">1</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Тканинний килимок для миші Drift concept з бічним прошивкою, товщина 2 мм, колір темно-синій, упакований у пакет.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Розмір: 300 * 700 мм&lt;br&gt;- Тканина: тканинна&lt;br&gt;- Бічна прошивка&lt;br&gt;- Товщина: 2 мм&lt;br&gt;- Колір: темно-синій&lt;br&gt;- Упаковка: пакет</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Килимок, 300*700, тканинний, Drift, concept, бічним, прошивкою, товщина, Dark, blue, Пакет</keywords>
-			</offer>
 			<offer id="35613" available="true" selling_type="r">
 				<name>
 					Килимок 300*700 тканинний Legal street rescuers з боковою прошивкою, товщина 2 мм, Beige, Пакет</name>
@@ -208766,6 +208555,27 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Килимок, 300*700, тканинний, Extreme, road, holidays, боковою, прошивкою, товщина, Dark, green, Пакет</keywords>
+			</offer>
+			<offer id="35621" available="true" selling_type="r">
+				<name>
+					Килимок 300*700 тканинний Drift concept з бічним прошивкою, товщина 2 мм, Dark blue, Пакет</name>
+				<categoryId>37226</categoryId>
+				<price>255.20</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/35621.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>35621</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Тканинний килимок для миші Drift concept з бічним прошивкою, товщина 2 мм, колір темно-синій, упакований у пакет.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Розмір: 300 * 700 мм&lt;br&gt;- Тканина: тканинна&lt;br&gt;- Бічна прошивка&lt;br&gt;- Товщина: 2 мм&lt;br&gt;- Колір: темно-синій&lt;br&gt;- Упаковка: пакет</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Килимок, 300*700, тканинний, Drift, concept, бічним, прошивкою, товщина, Dark, blue, Пакет</keywords>
 			</offer>
 			<offer id="35717" available="true" selling_type="r">
 				<name>
@@ -208892,27 +208702,6 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Килимок, 300*700, тканинний, Luxurious, Amazinc, боковою, прошивкою, товщина, колір, Dark, yellow, Пакет</keywords>
-			</offer>
-			<offer id="35840" available="true" selling_type="r">
-				<name>
-					Килимок 300*700 тканинний Speed ​​shadow з боковою прошивкою, товщина 2 мм, колір Dark red, Пакет</name>
-				<categoryId>37226</categoryId>
-				<price>255.20</price>
-				<currencyId>грн</currencyId>
-				<picture>https://b2b.yugtorg.com/image/data/35840.png</picture>
-				<vendor>Voltronic</vendor>
-				<vendorCode>35840</vendorCode>
-				<country>Китай </country>
-				<param name="Виробник">Voltronic</param>
-				<param name="Країна-виробник товару">Китай </param>
-				<param name="Гарантійний термін" unit="міс.">1</param>
-				<param name="Безготівковий розрахунок">Так</param>
-				<param name="Стан">Новий</param>
-				<description>
-					Тканинний килимок Speed ​​Shadow є зручним і стильним аксесуаром для вашого робочого місця. Його товщина становить 2 мм, що забезпечує комфортне положення рук та зап'ястя під час роботи. Бічна прошивка забезпечує міцність та довговічність килимка, а колір Dark red додасть елегантності вашому робочому столу.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Розмір: 300 * 700 мм&lt;br&gt;- Тип: тканинний&lt;br&gt;- Товщина: 2 мм&lt;br&gt;- Колір: Dark red&lt;br&gt;- Додатково: поставляється у пакеті</description>
-				<quantity_in_stock>1000</quantity_in_stock>
-				<keywords>
-					Килимок, 300*700, тканинний, Speed, ​​shadow, боковою, прошивкою, товщина, колір, Dark, Пакет</keywords>
 			</offer>
 			<offer id="35800" available="true" selling_type="r">
 				<name>
@@ -209102,6 +208891,27 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Килимок, 300*700, тканинний, Drift, боковою, прошивкою, товщина, колір, Dark, green, Пакет</keywords>
+			</offer>
+			<offer id="35840" available="true" selling_type="r">
+				<name>
+					Килимок 300*700 тканинний Speed ​​shadow з боковою прошивкою, товщина 2 мм, колір Dark red, Пакет</name>
+				<categoryId>37226</categoryId>
+				<price>255.20</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/35840.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>35840</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Тканинний килимок Speed ​​Shadow є зручним і стильним аксесуаром для вашого робочого місця. Його товщина становить 2 мм, що забезпечує комфортне положення рук та зап'ястя під час роботи. Бічна прошивка забезпечує міцність та довговічність килимка, а колір Dark red додасть елегантності вашому робочому столу.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Розмір: 300 * 700 мм&lt;br&gt;- Тип: тканинний&lt;br&gt;- Товщина: 2 мм&lt;br&gt;- Колір: Dark red&lt;br&gt;- Додатково: поставляється у пакеті</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Килимок, 300*700, тканинний, Speed, ​​shadow, боковою, прошивкою, товщина, колір, Dark, Пакет</keywords>
 			</offer>
 			<offer id="34338" available="true" selling_type="r">
 				<name>
@@ -222231,6 +222041,204 @@
 				<quantity_in_stock>1000</quantity_in_stock>
 				<keywords>
 					Водонепроникна, коробка, CN801, (4-8mm), контактів, IP68</keywords>
+			</offer>
+			<offer id="30902" available="true" selling_type="r">
+				<name>
+					Роз'єм для підключення RJ-45(F) (8 контактів) з клемами під кабель Q100</name>
+				<categoryId>10344</categoryId>
+				<price>230.55</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/30902.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/30902_1.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>30902</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Роз'єм RJ-45(F) (8 контактів) з клемами під кабель - це універсальний конектор, який використовується для підключення мережевих кабелів до мережних пристроїв, таких як комп'ютери, маршрутизатори, комутатори та інші. Роз'єм має 8 контактів, які відповідають 8 дротам у мережевому кабелі.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;&lt;br&gt;• Тип гнізда: RJ-45(F)&lt;br&gt;• Кількість контактів: 8&lt;br&gt;• Матеріал корпусу: пластик&lt;br&gt;• Колір корпусу: чорний&lt;br&gt;• Розміри: 30 x 20 x 10 мм&lt;br&gt;&lt;br&gt;&lt;br&gt;Як використовувати:&lt;br&gt;Щоб підключити мережевий кабель до гнізда RJ-45(F), необхідно:&lt;br&gt;1. Відріжте кабель мережі до потрібної довжини.&lt;br&gt;2. Очистіть кінці кабелю, видаляючи близько 1,5 см ізоляції.&lt;br&gt;3. Розташуйте кабелі кабелю відповідно до схеми підключення 568A або 568B.&lt;br&gt;4. Вставте дроти в клеми, переконавшись, що вони щільно прилягають до контактів.&lt;br&gt;5. Затисніть клеми.</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Роз'єм, підключення, RJ-45(F), контактів), клемами, кабель, Q100</keywords>
+			</offer>
+			<offer id="43534" available="true" selling_type="r">
+				<name>
+					Скотч армований прозорий (надміцний/смуга), ширина 40 мм, довжина 50 м</name>
+				<categoryId>44904</categoryId>
+				<price>230.55</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/43534.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/43534_1.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>43534</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Скотч, армований, прозорий, (надміцний/смуга), ширина, довжина</keywords>
+			</offer>
+			<offer id="14757" available="true" selling_type="r">
+				<name>
+					Імпульсний адаптер живлення Brazzers BRPSP12-12 12В 1А штекер 5,5/2,5 довжина 1м</name>
+				<categoryId>12125</categoryId>
+				<price>230.55</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/14757.png</picture>
+				<vendor>Brazzers</vendor>
+				<vendorCode>14757</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Brazzers</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">6</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Основні характеристики:&lt;br&gt;- Напруга та струм: 12В і 1А – забезпечують надійне та стабільне живлення для широкого спектру пристроїв, включаючи роутери, монітори, IP-камери та багато іншого.&lt;br&gt;- Штекер 5,5/2,5 мм: Стандартний розмір штекера, який підходить для більшості пристроїв.&lt;br&gt;- Довжина кабелю: 1 метр – забезпечує гнучкість при підключенні та дозволяє розміщувати пристрої на зручній відстані від джерела живлення.&lt;br&gt;&lt;br&gt;Чому Brazzers BRPSP12-12 - найкращий вибір:&lt;br&gt;• Надійність: Адаптер виготовлений із високоякісних матеріалів, що гарантує тривалий термін служби та мінімальну кількість поломок.&lt;br&gt;• Безпека: Вбудована система захисту від перевантаження та короткого замикання забезпечує безпечну роботу ваших пристроїв.&lt;br&gt;• Універсальність: Сумісний з більшістю електронних пристроїв, що робить його ідеальним вибором для дому, офісу чи подорожей.&lt;br&gt;• Економія енергії: Висока ефективність перетворення енергії знижує електроенергоспоживання, що позитивно позначається на вашій електроенергії та навколишньому середовищі.&lt;br&gt;&lt;br&gt;Застосування:&lt;br&gt;Адаптер Brazzers BRPSP12-12 ідеально підходить для підключення та живлення різних електронних пристроїв, включаючи:&lt;br&gt;- Роутери та модеми.&lt;br&gt;- Монітори та телевізори.&lt;br&gt;- IP-камери та відеореєстратори.&lt;br&gt;- Медіаплеєри та ігрові консолі.&lt;br&gt;- Електронні зарядні пристрої та багато іншого.&lt;br&gt;&lt;br&gt;З цим адаптером ви можете бути впевнені у стабільній та безперебійній роботі ваших пристроїв. Зручна довжина кабелю дозволить вам гнучко керувати розташуванням обладнання та створювати оптимальні умови для його роботи.&lt;br&gt;&lt;br&gt;Не пропустіть можливість забезпечити надійне живлення вашої техніки з імпульсним адаптером живлення Brazzers BRPSP12-12. Ваш пристрій заслуговує лише на краще!</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Імпульсний, адаптер, живлення, Brazzers, BRPSP12-12, штекер, 55/25, довжина</keywords>
+			</offer>
+			<offer id="11786" available="true" selling_type="r">
+				<name>
+					Універсальний ключ Snap n Grip 9-32 мм, Blister</name>
+				<categoryId>10357</categoryId>
+				<price>230.55</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/11786.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/11786_1.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/11786_2.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>11786</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">6</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Опис:&lt;br&gt;Універсальний ключ Snap n Grip є набором з двох ключів, здатних підлаштовуватися під будь-який розмір гайок і болтів від 9 до 32 мм. Цей інструмент ідеально підходить для швидкої та зручної роботи з різними видами кріплення.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;1. Універсальний ключ складається із двох частин, кожна з яких має спеціальну систему регулювання, що дозволяє підлаштовувати розмір губок під потрібний розмір гайок та болтів.&lt;br&gt;2. Діапазон роботи від 9 до 32 мм дозволяє використовувати ключ для широкого спектру кріпильних виробів.&lt;br&gt;3. Зручна рукоятка забезпечує надійне захоплення та комфорт при роботі.&lt;br&gt;4. Виготовлений із високоякісних матеріалів, що забезпечують тривалий термін служби інструменту.&lt;br&gt;5. У комплекті постачається зручний чохол для зберігання та транспортування.</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Універсальний, ключ, Snap, Grip, 9-32, Blister</keywords>
+			</offer>
+			<offer id="36439" available="true" selling_type="r">
+				<name>
+					Килимок 300*700 тканинний Style Series з боковою прошивкою, товщина 2 мм, SD, Пакет</name>
+				<categoryId>38006</categoryId>
+				<price>230.55</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/36439.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/36439_1.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/36439_2.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/36439_3.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>36439</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Тканинний килимок Style Series з боковою прошивкою є килимком розміром 300*700 мм і товщиною 2 мм. Він призначений для використання як килимок для миші і має зручний пакет для зручного зберігання та перенесення.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Розмір: 300 * 700 мм&lt;br&gt;- Товщина: 2 мм&lt;br&gt;- Матеріал: тканина&lt;br&gt;- Особливості: бічна прошивка, упакований у пакет</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Килимок, 300*700, тканинний, Style, Series, боковою, прошивкою, товщина, Пакет</keywords>
+			</offer>
+			<offer id="36438" available="true" selling_type="r">
+				<name>
+					Килимок 300*700 тканинний Style Series Rider з боковою прошивкою, товщина 2 мм, Пакет</name>
+				<categoryId>38004</categoryId>
+				<price>230.55</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/36438.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>36438</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Тканинний килимок Style Series Rider з боковою прошивкою та товщиною 2 мм, призначений для використання в автомобілі. Розміри становлять 300*700 мм. Поставляється у зручному пакеті для зберігання.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Тип: тканинний&lt;br&gt;- Модель: Style Series Rider&lt;br&gt;- Розміри: 300*700 мм&lt;br&gt;- Товщина: 2 мм&lt;br&gt;- Особливості: бічна прошивка&lt;br&gt;- Упаковка: пакет</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Килимок, 300*700, тканинний, Style, Series, Rider, боковою, прошивкою, товщина, Пакет</keywords>
+			</offer>
+			<offer id="36437" available="true" selling_type="r">
+				<name>
+					Килимок 300*700 тканинний Style Series з боковою прошивкою, товщина 2 мм, Red, Пакет</name>
+				<categoryId>38006</categoryId>
+				<price>230.55</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/36437.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/36437_1.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/36437_2.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/36437_3.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>36437</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Тканинний килимок Style Series з боковою прошивкою, призначений для використання в інтер'єрі. Його яскравий червоний колір додасть приміщенню додаткового стилю, а товщина 2 мм забезпечить комфорт при використанні.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Розмір: 300 * 700 мм&lt;br&gt;- Тип: тканинний&lt;br&gt;- Колір червоний&lt;br&gt;- Прошивка: збоку&lt;br&gt;- Товщина: 2 мм&lt;br&gt;- Упаковка: пакет</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Килимок, 300*700, тканинний, Style, Series, боковою, прошивкою, товщина, Пакет</keywords>
+			</offer>
+			<offer id="36436" available="true" selling_type="r">
+				<name>
+					Килимок 300*700 тканинний Style Series Abstraction з боковою прошивкою, товщина 2 мм, Black/White, Пакет</name>
+				<categoryId>38007</categoryId>
+				<price>230.55</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/36436.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>36436</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Безготівковий розрахунок">Так</param>
+				<param name="Стан">Новий</param>
+				<description>
+					Тканинний килимок Style Series Abstraction розміром 300*700 мм з боковою прошивкою. Має товщину 2 мм та виконаний у чорно-білому кольорі. Поставляється у зручному пакеті.&lt;br&gt;&lt;br&gt;Характеристики:&lt;br&gt;- Розмір: 300 * 700 мм&lt;br&gt;- Тип матеріалу: тканина&lt;br&gt;- Дизайн: Style Series Abstraction&lt;br&gt;- Колір: чорно-білий&lt;br&gt;- Товщина: 2 мм&lt;br&gt;- Упаковка: пакет</description>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Килимок, 300*700, тканинний, Style, Series, Abstraction, боковою, прошивкою, товщина, Black/White, Пакет</keywords>
+			</offer>
+			<offer id="37644" available="true" selling_type="r">
+				<name>
+					Конвертер Mini, HDMI to AV, ВИХІД 3RCA(мама) на ВХІД HDMI(мама), 720P/1080P, Black, BOX</name>
+				<categoryId>17450</categoryId>
+				<price>230.55</price>
+				<currencyId>грн</currencyId>
+				<picture>https://b2b.yugtorg.com/image/data/37644.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/37644_1.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/37644_2.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/37644_3.png</picture>
+				<picture>https://b2b.yugtorg.com/image/data/37644_4.png</picture>
+				<vendor>Voltronic</vendor>
+				<vendorCode>37644</vendorCode>
+				<country>Китай </country>
+				<param name="Виробник">Voltronic</param>
+				<param name="Країна-виробник товару">Китай </param>
+				<param name="Гарантійний термін" unit="міс.">1</param>
+				<param name="Стан">Новий</param>
+				<quantity_in_stock>1000</quantity_in_stock>
+				<keywords>
+					Конвертер, Mini, HDMI, ВИХІД, 3RCA(мама), ВХІД, HDMI(мама), 720P/1080P, Black</keywords>
 			</offer>
 			</offers></shop>
 </yml_catalog>
